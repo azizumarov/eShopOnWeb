@@ -9,6 +9,7 @@ using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 using MongoDB.Driver;
 using System.Security.Authentication;
+using Microsoft.eShopWeb.ApplicationCore.Entities.OrderAggregate;
 
 namespace OrderFunctions
 {
