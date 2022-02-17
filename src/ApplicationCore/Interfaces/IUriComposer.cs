@@ -3,4 +3,9 @@
 public interface IUriComposer
 {
     string ComposePicUri(string uriTemplate);
+
+    string ReserverFunctionUrl();
+
+    string SBConnectionString();
+
 }
